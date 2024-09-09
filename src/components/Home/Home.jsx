@@ -9,7 +9,8 @@ const Home = () => {
           <TextChange />
         </h1>
         <p className="text-sm md:text-2xl tracking-tight mt-10">
-          Jillur Rahman is a passionate front-end developer, focusing on technologies like React.js and Next.js. He is currently available for full-time work.
+          I am a passionate front-end developer, focusing on technologies like
+          React.js and Next.js.I currently available for full-time work.
         </p>
         <button className="mt-5 md:mt-10 text-white py-2 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697]">
           Contact Me
