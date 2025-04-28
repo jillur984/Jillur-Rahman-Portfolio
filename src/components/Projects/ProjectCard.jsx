@@ -4,7 +4,7 @@ const ProjectCard = ({ title, bannerImg, main, demoLink, sourceCodeLink }) => {
       <img
         src={bannerImg}
         alt={title}
-        className="w-full h-48 object-cover rounded-t-xl"
+        className="w-full h-48 object-contain rounded-t-xl"
       />
       <div className="p-6">
         <h3 className="text-xl font-semibold mb-2">{title}</h3>
